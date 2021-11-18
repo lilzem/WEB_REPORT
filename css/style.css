@@ -45,7 +45,7 @@ body {
 
 .content {
     position: relative;
-    left: 100px;
+    left: 0;
     top: -20px;
     width: fit-content;
     height: fit-content;
