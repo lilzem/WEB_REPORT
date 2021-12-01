@@ -141,3 +141,7 @@ ul.menu a:hover {
 li {
     list-style: none;
 }
+
+.talib {
+    opacity: 0;
+}
